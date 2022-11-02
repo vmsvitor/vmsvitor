@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vmsvitor
 - 👀 I’m interested in make newtworking and improve my code skills
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, React, NodeJS and SQL 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @vmsvitor
 
 <!---
