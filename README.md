@@ -1,3 +1,8 @@
+<img src="https://t4.ftcdn.net/jpg/02/55/73/15/360_F_255731595_eG8ZerN19GVsoXqnqaExufXIiWmfDcih.jpg" style="margin: 100px">
+
+
+
+
 - 👋 Hi, I’m @vmsvitor
 - 👀 I’m interested in make newtworking and improve my code skills
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, React and NodeJS. 
